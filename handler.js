@@ -1,5 +1,5 @@
 "use strict";
-const Foo = require("./Foo");
+const Foo = require("foo-lib");
 
 function handler(e, c, cb) {
   const foo = new Foo();

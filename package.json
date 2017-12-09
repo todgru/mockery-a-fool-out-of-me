@@ -1,10 +1,11 @@
 {
   "name": "mockery-a-fool-out-of-me",
   "description": "node.js, mockery, testing and sadness",
-  "repository":"github.com:todgru/mockery-a-fool-out-of-me.git",
-  "license":"crying",
+  "repository": "github.com:todgru/mockery-a-fool-out-of-me.git",
+  "license": "ISC",
   "version": "0.1.0",
   "dependencies": {
+    "foo-lib": "./foo"
   },
   "devDependencies": {
     "ava": "^0.24.0",
